@@ -1,21 +1,8 @@
-# v0.1.1 (Thu Sep 29 2022)
+# v0.1.0 (Tue Mar 09 2021)
 
-#### ⚠️ Pushed to `main`
-
-- first commit (rynhardt.smith@fanplayr.com)
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### Authors: 1
 
-- Rynhardt Smith (rynhardt.smith@fanplayr.com)
+- [your-username](https://github.com/your-username)
 
----
-
-# v0.1.1 (Thu Sep 29 2022)
-
-#### ⚠️ Pushed to `main`
-
-- first commit (rynhardt.smith@fanplayr.com)
-
-#### Authors: 1
-
-- Rynhardt Smith (rynhardt.smith@fanplayr.com)
